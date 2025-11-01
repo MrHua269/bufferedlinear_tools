@@ -1,0 +1,3 @@
+nbt解析懒得写了，用了个别人项目里的(x)
+
+原项目: https://github.com/Quozul/minecraft_world_trimmer
