@@ -15,9 +15,9 @@ mod nbt;
 
 #[derive(Parser)]
 #[command(
-    name = "minecraft_world_optimizer",
-    version = "1.0",
-    about = "Optimizing Minecraft worlds by deleting unused region files and chunks.",
+    name = "bufferedlinear_tools",
+    version = "2.0",
+    about = "Buffered linear region format convertor.",
     long_about = None,
 )]
 pub struct Cli {
